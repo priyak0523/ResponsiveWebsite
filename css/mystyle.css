@@ -1,0 +1,141 @@
+/*..... CSS For Body, HTML ......*/
+body,html{
+    width:100%;
+    height:100%;
+}
+
+/*..... Bootstrap Container row ......*/
+.row {
+    margin-right: 0px;
+}
+
+/*..... Background Image ......*/
+#backgroundImageID{
+  width: 100%;
+  height:100%;
+  position: fixed;
+  top: 0;
+  left:0;  
+}
+
+/* ..... CSS For Header .....*/
+.bodyWrapper{
+    min-height:100%;
+    position:relative;
+}
+
+#divHeaderImg{
+    position: absolute;
+    top:14px;
+    left:50px;
+}
+
+#divHeaderBody{
+  margin-top:40px;
+}
+
+#divHeaderBody table{
+    color:white;
+}
+
+#tablealign {
+    width: auto;
+    margin-left: 0px;
+    margin-right: auto;	
+	float:right;
+    font-size:16px;
+}
+
+#contactBold{
+    font-weight:bold;
+}
+
+#bodyContentBold{
+    font-weight:bold;
+}
+
+/* ..... CSS For Body .....*/
+.divBody { 
+    margin-top:150px;
+    text-align:center;
+}
+
+.divBodyHeader h1
+{
+    color:white;
+}
+
+.divBodyContentNested p{
+    font-size:15px;
+    color:white;
+}
+
+.divBodyContentCenter{
+     margin-bottom: 20px;
+}
+
+/* ..... CSS For Footer .....*/
+.SocialIcons{
+ padding-bottom:10px;
+}
+
+.fa-stack{
+    margin-right: 25px;    
+}
+
+.fa-circle{
+   color:white; 
+}
+
+.fa-inverse{
+    color:#5BCAEA; ;
+}
+
+.footerCopyright{
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.footerAddress{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+img.associationLogo{
+    width: 100%;
+    height: 100%;
+    top:0;
+    left:0;    
+}
+
+footer{
+    width:100%;
+    height:98px;
+    left:0;
+    right:0;
+    bottom:0;
+    position:fixed;
+    background-color:#5bcaea;    
+}
+
+.col{
+    padding-left:0;
+    padding-right:0;
+    float:left;
+    color:white;  
+    text-align:center; 
+    background-color:#5BCAEA;   
+}
+
+.col1{
+    padding-top:10px;
+}
+
+.col2{
+    padding-top:15px;
+    font-size: 18px;  
+}
+
+.col3{   
+    height:100px;
+    padding-bottom: 8px;
+}

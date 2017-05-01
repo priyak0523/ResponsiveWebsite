@@ -1,0 +1,47 @@
+@media screen and (min-width: 768px){
+    .formPadding{
+    padding-right:0px;
+}
+}
+
+@media only screen and (max-width:767px){
+    .btn{
+    width:100%;
+}
+}
+
+@media only screen and (max-width:262px){
+    .form-control{
+        width:130%;
+    }
+    .btn{
+        width:130%;
+    }
+}
+
+@media only screen and (max-width:228px){
+    .form-control{
+        width:140%;
+    }
+    .btn{
+        width:140%;
+    }
+}
+
+@media only screen and (max-width:219px){
+    .form-control{
+        width:160%;
+    }
+    .btn{
+        width:160%;
+    }
+}
+
+@media screen and (max-width: 204px){
+	 .form-control{
+        width:180%;
+    }
+    .btn{
+        width:180%;
+    }
+}
